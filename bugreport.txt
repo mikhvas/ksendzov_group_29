@@ -1,0 +1,9 @@
+1) ID
+2) Project
+3) Version
+4) Severity
+5) Priority
+6) Author
+7) Steps
+8) ActualResult
+9) ExprctedResult
